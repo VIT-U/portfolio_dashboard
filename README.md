@@ -1,11 +1,15 @@
 # Портфолио с дашбордами.
 > Репозиторий содержит ссылки на работы, сделанные в DATALENS
 
+**Анализ продаж медицинских пробирок**
+
+[ссылка на дашборд](https://datalens.yandex/4pjd6lhsi44mp)
+
 **Анализ продаж пиццерии**
 
-[ссылка](https://datalens.yandex/3ku5zd9elawco)
+[ссылка на дашборд](https://datalens.yandex/3ku5zd9elawco)
 
 
 **Анализ продаж магазина велосипедов**
 
-[ссылка](https://datalens.yandex/j1ilb4914j0c4)
+[ссылка на дашборд](https://datalens.yandex/j1ilb4914j0c4)
